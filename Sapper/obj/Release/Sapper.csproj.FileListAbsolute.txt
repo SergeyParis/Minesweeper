@@ -1,0 +1,26 @@
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\bin\Release\Sapper.exe.config
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\bin\Release\Sapper.exe
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\bin\Release\Sapper.pdb
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\obj\Release\Sapper.csprojResolveAssemblyReference.cache
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\obj\Release\Sapper.Controls.UserTimer.resources
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\obj\Release\Sapper.Forms.MainForm.resources
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\obj\Release\Sapper.Forms.StarterForm.resources
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\obj\Release\Sapper.Properties.Textures.Win7.resources
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\obj\Release\Sapper.csproj.GenerateResource.Cache
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\obj\Release\Sapper.exe
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\obj\Release\Sapper.pdb
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\obj\Release\Sapper.Controls.Counter.resources
+D:\dev\projects\C#\Sapper\work\Sapper\Sapper\obj\Release\Sapper.GameField.CellOfGameField.resources
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\bin\Release\Sapper.exe.config
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\obj\Release\Sapper.exe
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\obj\Release\Sapper.pdb
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\bin\Release\Sapper.exe
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\bin\Release\Sapper.pdb
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\obj\Release\Sapper.csprojResolveAssemblyReference.cache
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\obj\Release\Sapper.GameField.CellOfGameField.resources
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\obj\Release\Sapper.Controls.UserTimer.resources
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\obj\Release\Sapper.Forms.MainForm.resources
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\obj\Release\Sapper.Forms.StarterForm.resources
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\obj\Release\Sapper.Properties.Textures.Win7.resources
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\obj\Release\Sapper.Controls.Counter.resources
+D:\dev\projects\C#\ store\Sapper\0.3.20\Sapper\Sapper\obj\Release\Sapper.csproj.GenerateResource.Cache

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sapper.Controls.CountBombsRemains">
+    <Position X="4.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAACAABAAAAACAAAACBAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Controls\CountBombsRemains.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sapper.Controls.Counter">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAACQAACAAAgAAAAiAAAQCAAAAAAAAAIAkABAEEAA=</HashCode>
+      <FileName>Controls\Counter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sapper.Controls.UserTimer">
+    <Position X="1" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgBABAAAiAAAQCAAAAAAAAIAAAAAAEAAA=</HashCode>
+      <FileName>Controls\UserTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sapper.Forms.MainForm">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBSYEAwIiCAgChAABCmAAQAqLiGgjAgAgEEAApAYKhA=</HashCode>
+      <FileName>Forms\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sapper.Forms.StarterForm">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAEIoAMGMAWARCUYCgBDQGgAoBCgMEgCwJAIQECAg=</HashCode>
+      <FileName>Forms\StarterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sapper.GameField.CellOfGameField">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAQCABAAQAAIBIAAQKAAACAAAAIAAAIAAAQAg=</HashCode>
+      <FileName>GameField\CellOfGameField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sapper.GameField.GameField">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAABAAAiAIAgACCACABACABAAgoAgACAAABJQAAA=</HashCode>
+      <FileName>GameField\GameField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sapper.Program">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sapper.Properties.Settings">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sapper.Properties.Textures.Win7">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIEQAQAAABEAEAAQAAAACgCBAAAQAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
